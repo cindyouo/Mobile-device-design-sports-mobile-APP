@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg4"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteX="24dp"
+    tools:layout_editor_absoluteY="-46dp">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="141dp"
+        android:layout_height="124dp"
+        android:layout_marginEnd="152dp"
+        android:layout_marginBottom="4dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="210dp"
+        android:layout_height="68dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/chonburi"
+        android:shadowColor="#FFFFFF"
+        android:text="Welcome!"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/textView3"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="160dp"
+        android:layout_height="53dp"
+        android:layout_marginEnd="124dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="@font/chonburi"
+        android:text="SPORT"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/textView4"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="144dp"
+        android:layout_marginBottom="12dp"
+
+        android:fontFamily="@font/chonburi"
+        android:text="System"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="215dp"
+        android:layout_height="85dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#82245F"
+
+        android:fontFamily="@font/chonburi"
+        android:onClick="button_Click"
+        android:text="login"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        app:layout_constraintBottom_toTopOf="@+id/button3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:strokeColor="#F6C4D9"
+        app:strokeWidth="15px" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="218dp"
+        android:layout_height="90dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="120dp"
+        android:backgroundTint="#BAA3B3"
+
+        android:fontFamily="@font/chonburi"
+        android:onClick="button2_Click"
+        android:text="Signup"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:strokeColor="#FFFFFF"
+        app:strokeWidth="15px" />
+</androidx.constraintlayout.widget.ConstraintLayout>
