@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "com.example.finalapplication.app-merged_res-29:/layout_activity_home.xml.flat",
+        "source": "com.example.finalapplication.app-main-31:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_img.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg8.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_work.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pp1.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pp1.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_game1.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_game1.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg1.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_ba4.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\ba4.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_bg5.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\bg5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_gamehome.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_gamehome.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg15.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_bg8.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\bg8.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg11.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg18.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg110.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg110.jpg"
+    },
+    {
+        "merged": "com.example.finalapplication.app-merged_res-29:/layout_activity_work.xml.flat",
+        "source": "com.example.finalapplication.app-main-31:/layout/activity_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_water1.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_water1.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_homebg2.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\homebg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\font_chonburi.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\font\\chonburi.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pp2.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pp2.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_gogle.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\gogle.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_bg4.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\bg4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg0.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg0.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg3.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_bmi.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_bmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg12.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pp.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pp.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_ba3.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\ba3.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_google1.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\google1.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_fb2.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\fb2.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_water.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_water.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_back.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_home1.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\home1.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_bg3.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\bg3.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg10.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg2.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_person.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg13.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_ba2.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\ba2.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_game2.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_game2.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_bmibg.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\bmibg.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_ig.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\ig.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_pg5.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\pg5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_bg3.jpg.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_fb.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-merged_res-29:\\drawable_home.png.flat",
+        "source": "C:\\Users\\cindy\\.gradle\\daemon\\7.5\\com.example.finalapplication.app-main-31:\\drawable\\home.png"
+    }
+]
