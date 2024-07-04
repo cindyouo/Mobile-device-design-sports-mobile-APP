@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final Application</string>
+    <string-array name="game">
+        <item>猜數字</item>
+        <item>技藝遊戲</item>
+    </string-array>
+</resources>

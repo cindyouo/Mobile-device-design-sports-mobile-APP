@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bmibg"
+    android:backgroundTint="#2D000000"
+    android:backgroundTintMode="screen"
+    tools:context=".gamehome">
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="330dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="#00FFFFFF"
+        android:onClick="button3_Click"
+        android:scaleType="fitEnd"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="126dp"
+        android:layout_marginTop="98dp"
+        android:text="選擇遊戲"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="156dp"
+        android:layout_height="113dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="78dp"
+        android:backgroundTint="#592196F3"
+        android:onClick="button_Click"
+        android:text="猜數字"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:cornerRadius="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11"
+        app:strokeColor="#FFFFFF"
+        app:strokeWidth="5dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="156dp"
+        android:layout_height="113dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="78dp"
+        android:backgroundTint="#74673AB7"
+        android:onClick="button2_Click"
+        android:text="記憶遊戲"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:cornerRadius="15dp"
+        app:layout_constraintStart_toEndOf="@+id/button4"
+        app:layout_constraintTop_toBottomOf="@+id/textView11"
+        app:strokeColor="#FFFFFF"
+        app:strokeWidth="5dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="363dp"
+        android:layout_height="357dp"
+        android:layout_marginStart="126dp"
+        android:layout_marginTop="43dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button4"
+        app:srcCompat="@drawable/pp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
